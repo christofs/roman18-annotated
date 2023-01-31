@@ -1,0 +1,439 @@
+wordform	pos	lemma	dep	morph
+Tu	PRON	tu	nsubj	Number=Sing|Person=3
+veux	VERB	vouloir	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+donc	ADV	donc	advmod	
+,	PUNCT	,	punct	
+cher	ADJ	cher	amod	Gender=Masc|Number=Sing
+ami	NOUN	ami	obj	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+que	SCONJ	que	mark	
+je	PRON	je	nsubj	Number=Sing|Person=1
+te	PRON	te	iobj	Number=Plur|Person=2
+détaille	VERB	détaille	ccomp	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+toutes	ADJ	tout	amod	Gender=Fem|Number=Plur
+mes	DET	mon	det	Number=Plur|Poss=Yes
+folies	NOUN	folie	obj	Gender=Fem|Number=Plur
+,	PUNCT	,	punct	
+sans	ADP	sans	mark	
+en	PRON	en	dep	Person=3
+omettre	VERB	omettre	advcl	VerbForm=Inf
+une	DET	un	det	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+seule	ADJ	seul	obj	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+à	ADP	à	mark	
+compter	VERB	compter	advcl	VerbForm=Inf
+du	ADP	de	case	Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+jour	NOUN	jour	obl:arg	Gender=Masc|Number=Sing
+où	PRON	où	obj	PronType=Rel
+nous	PRON	nous	nsubj	Number=Plur|Person=1
+nous	PRON	nous	expl:comp	Number=Plur|Person=1|Reflex=Yes
+sommes	AUX	être	aux:tense	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+quittés	VERB	quitter	acl:relcl	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part
+;	PUNCT	;	punct	
+c'	ADV	c'	advmod	
+est	ADV	est	advmod	
+-	ADV	-	advmod	
+à	ADV	à	advmod	
+-	ADV	-	advmod	
+dire	ADV	dire	advmod	
+depuis	ADP	depuis	case	
+un	DET	un	det	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+mois	NOUN	mois	ROOT	Gender=Masc|Number=Sing
+environ	ADV	environ	advmod	
+.	PUNCT	.	punct	
+Ne	ADV	ne	advmod	Polarity=Neg
+t'	PRON	te	expl:comp	Person=3|Reflex=Yes
+attends	VERB	attendre	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+pas	ADV	pas	advmod	Polarity=Neg
+cependant	ADV	cependant	advmod	
+à	ADP	à	case	
+ce	PRON	ce	obl:arg	
+que	SCONJ	que	mark	
+je	PRON	je	nsubj	Number=Sing|Person=1
+dise	VERB	dire	acl	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+tout	PRON	tout	obj	Gender=Masc|Number=Sing
+;	PUNCT	;	punct	
+tu	PRON	tu	nsubj	Number=Sing|Person=1
+le	PRON	le	obj	Gender=Masc|Number=Sing|Person=3
+sais	VERB	savoir	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+mieux	ADV	mieux	advmod	
+que	SCONJ	que	mark	
+personne	PRON	personne	dep	Number=Sing
+,	PUNCT	,	punct	
+il	PRON	il	expl:subj	Gender=Masc|Number=Sing|Person=3
+est	VERB	être	advcl	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+de	ADP	de	case	
+certaines	DET	certain	det	Gender=Fem|Number=Plur
+choses	NOUN	chose	obl:arg	Gender=Fem|Number=Plur
+qu'	PRON	qu'	dep	PronType=Rel
+il	PRON	il	expl:subj	Gender=Masc|Number=Sing|Person=3
+est	AUX	être	cop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+bon	ADJ	bon	acl:relcl	Gender=Masc|Number=Sing
+de	ADP	de	mark	
+cacher	VERB	cacher	dep	VerbForm=Inf
+.	PUNCT	.	punct	
+Irai	VERB	aller	ROOT	Mood=Ind|VerbForm=Fin
+-je	PRON	je	nsubj	Gender=Masc|Number=Sing|Person=3
+te	PRON	te	iobj	Number=Sing|Person=3
+révéler	VERB	révéler	xcomp	VerbForm=Inf
+,	PUNCT	,	punct	
+par	ADP	par	case	
+exemple	NOUN	exemple	obl:mod	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+qu'	SCONJ	que	mark	
+une	DET	un	det	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+jolie	ADJ	joli	amod	Gender=Fem|Number=Sing
+voisine	NOUN	voisin	nsubj	Gender=Fem|Number=Sing
+me	PRON	me	iobj	Number=Sing|Person=1
+fait	VERB	faire	ccomp	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+les	DET	le	det	Definite=Def|Number=Plur|PronType=Art
+yeux	NOUN	oeil	obj	Gender=Masc|Number=Plur
+doux	ADJ	doux	amod	Gender=Masc|Number=Plur
+?	PUNCT	?	punct	
+certes	ADV	certes	advmod	
+,	PUNCT	,	punct	
+je	PRON	je	nsubj	Number=Sing|Person=1
+m'	PRON	me	obj	Number=Sing|Person=1|Reflex=Yes
+en	PRON	en	iobj	Person=3
+garderai	VERB	garder	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+;	PUNCT	;	punct	
+je	PRON	je	nsubj	Number=Sing|Person=1
+te	PRON	te	obj	Number=Plur|Person=2
+dirai	VERB	dire	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+bien	ADV	bien	advmod	
+moins	ADV	moins	advmod	
+encore	ADV	encore	advmod	
+,	PUNCT	,	punct	
+que	SCONJ	que	mark	
+j'	PRON	je	nsubj	Number=Sing|Person=1
+attends	VERB	attendre	ccomp	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+dix	NUM	dix	nummod	NumType=Card
+heures	NOUN	heure	obj	Gender=Fem|Number=Plur
+du	ADP	de	case	Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+soir	NOUN	soir	nmod	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+avec	ADP	avec	case	
+une	DET	un	det	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+impatience	NOUN	impatience	obl:mod	Gender=Fem|Number=Sing
+mortelle	ADJ	mortel	amod	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+pour	ADP	pour	mark	
+aller	VERB	aller	advcl	VerbForm=Inf
+en	ADP	en	case	
+bonne	ADJ	bon	amod	Gender=Fem|Number=Sing
+fortune	NOUN	fortune	obl:arg	Gender=Fem|Number=Sing
+;	PUNCT	;	punct	
+tu	PRON	tu	nsubj	Number=Sing|Person=1
+pourrais	VERB	pouvoir	ROOT	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+me	PRON	me	obj	Number=Sing|Person=1
+suivre	VERB	suivre	xcomp	VerbForm=Inf
+,	PUNCT	,	punct	
+te	PRON	te	expl:comp	Person=3|Reflex=Yes
+trouver	VERB	trouver	xcomp	VerbForm=Inf
+avec	ADP	avec	case	
+moi	PRON	moi	obl:arg	Number=Sing|Person=1|PronType=Prs
+sous	ADP	sous	case	
+certaines	DET	certain	det	Gender=Fem|Number=Plur
+croisées	NOUN	croisée	obl:mod	Gender=Fem|Number=Plur
+,	PUNCT	,	punct	
+rue	NOUN	rue	obl:mod	Gender=Fem|Number=Sing
+de	ADP	de	case	
+Bondi	PROPN	Bondi	nmod	
+,	PUNCT	,	punct	
+no	NOUN	no	obj	Gender=Masc|Number=Sing
+.	NOUN	.	nmod	Gender=Masc|Number=Sing
+28	NUM	28	nummod	NumType=Card
+;	PUNCT	;	punct	
+et	CCONJ	et	cc	
+voilà	VERB	voilà	ROOT	Mood=Ind|VerbForm=Fin
+madame	NOUN	monsieur	obj	Gender=Fem|Number=Sing
+d'	ADP	de	case	
+Aubigni	PROPN	Aubigni	nmod	
+,	PUNCT	,	punct	
+perdue	VERB	perdre	acl	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part
+de	ADP	de	case	
+réputation	NOUN	réputation	obl:arg	Gender=Fem|Number=Sing
+.	PUNCT	.	punct	
+Non	ADV	non	advmod	
+,	PUNCT	,	punct	
+mon	DET	mon	det	Number=Sing|Poss=Yes
+aimable	NOUN	aimable	nsubj	Number=Sing
+d'	ADP	de	case	
+Arinville	PROPN	Arinville	nmod	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+tout	ADV	tout	advmod	
+charmant	ADJ	charmant	amod	Gender=Masc|Number=Sing
+que	PRON	que	obj	PronType=Rel
+vous	PRON	vous	nsubj	Number=Plur|Person=2
+êtes	AUX	être	acl:relcl	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+,	PUNCT	,	punct	
+je	PRON	je	nsubj	Number=Sing|Person=1
+ne	ADV	ne	advmod	Polarity=Neg
+pousserai	VERB	pousser	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+pas	ADV	pas	advmod	Polarity=Neg
+aussi	ADV	aussi	advmod	
+loin	ADV	loin	advmod	
+la	DET	le	det	Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+complaisance	NOUN	complaisance	obj	Gender=Fem|Number=Sing
+;	PUNCT	;	punct	
+mais	CCONJ	mais	cc	
+voici	VERB	voici	ROOT	Mood=Ind|VerbForm=Fin
+ce	PRON	ce	obj	
+que	PRON	que	obj	PronType=Rel
+je	PRON	je	nsubj	Number=Sing|Person=1
+puis	VERB	pouvoir	acl:relcl	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+vous	PRON	vous	iobj	Number=Plur|Person=2
+compter	VERB	compter	xcomp	VerbForm=Inf
+sans	ADP	sans	case	
+scrupule	NOUN	scrupule	obl:mod	Gender=Masc|Number=Sing
+;	PUNCT	;	punct	
+sans	ADP	sans	case	
+scrupule	NOUN	scrupule	obl:mod	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+tu	PRON	tu	nsubj	Number=Sing|Person=1
+entends	VERB	entendre	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+?	PUNCT	?	punct	
+Ecoutez	VERB	ecouter	ROOT	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+-moi	PRON	moi	dep	Number=Sing|Person=1
+donc	ADV	donc	advmod	
+,	PUNCT	,	punct	
+si	SCONJ	si	mark	
+vous	PRON	vous	nsubj	Number=Plur|Person=2
+le	PRON	le	obj	Gender=Masc|Number=Sing|Person=3
+trouvez	VERB	trouver	advcl	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+agréable	ADJ	agréable	xcomp	Number=Sing
+.	PUNCT	.	punct	
+A	ADP	à	case	
+propos	NOUN	propos	ROOT	Gender=Masc
+de	ADP	de	case	
+ma	DET	mon	det	Gender=Fem|Number=Sing|Poss=Yes
+demeure	NOUN	demeure	nmod	Gender=Fem|Number=Sing
+habituelle	ADJ	habituel	amod	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+rue	NOUN	rue	nmod	Gender=Fem|Number=Sing
+du	ADP	de	case	Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+Bacq	PROPN	Bacq	nmod	
+,	PUNCT	,	punct	
+maison	NOUN	maison	nmod	Gender=Fem|Number=Sing
+de	ADP	de	case	
+l'	DET	le	det	Definite=Def|Number=Sing|PronType=Art
+honnête	ADJ	honnête	amod	Number=Sing
+M.	NOUN	m.	nmod	Gender=Masc|Number=Sing
+Dubet	PROPN	Dubet	flat:name	
+;	PUNCT	;	punct	
+je	PRON	je	nsubj	Number=Sing|Person=1
+crois	VERB	croire	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+t'	PRON	te	iobj	Number=Sing|Person=3
+avoir	AUX	avoir	aux:tense	VerbForm=Inf
+dit	VERB	dire	xcomp	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
+quel	DET	quel	det	Definite=Ind|Number=Sing|PronType=Art
+-	DET	-	det	Definite=Ind|Number=Sing|PronType=Art
+que	DET	que	det	Definite=Ind|Number=Sing|PronType=Art
+chose	NOUN	chose	obj	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+dans	ADP	dans	case	
+le	DET	le	det	Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+temps	NOUN	temps	obl:mod	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+d'	ADP	de	case	
+une	DET	un	det	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+respectable	ADJ	respectable	amod	Number=Sing
+douairière	NOUN	douairière	obl:arg	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+qui	PRON	qui	nsubj	PronType=Rel
+ne	ADV	ne	advmod	Polarity=Neg
+reçût	VERB	recevoir	acl:relcl	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+jamais	ADV	jamais	advmod	Polarity=Neg
+de	ADP	de	case	
+la	DET	le	det	Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+main	NOUN	main	obl:arg	Gender=Fem|Number=Sing
+du	ADP	de	case	Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+prêtre	NOUN	prêtre	nmod	Gender=Masc|Number=Sing
+le	DET	le	det	Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+sacrement	NOUN	sacrement	obj	Gender=Masc|Number=Sing
+de	ADP	de	case	
+mariage	NOUN	mariage	nmod	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+et	CCONJ	et	cc	
+qui	PRON	qui	nsubj	PronType=Rel
+pourtant	ADV	pourtant	advmod	
+a	VERB	avoir	conj	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+la	DET	le	det	Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+réputation	NOUN	réputation	obj	Gender=Fem|Number=Sing
+de	ADP	de	mark	
+ne	ADV	ne	advmod	Polarity=Neg
+s'	PRON	se	expl:comp	Person=3|Reflex=Yes
+en	PRON	en	iobj	Person=3
+être	AUX	être	aux:tense	VerbForm=Inf
+point	ADV	point	advmod	Polarity=Neg
+passé	VERB	passer	acl	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
+.	PUNCT	.	punct	
+Cette	DET	ce	det	Gender=Fem|Number=Sing|PronType=Dem
+respectable	ADJ	respectable	amod	Number=Sing
+demoiselle	NOUN	demoiselle	nsubj	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+nommée	VERB	nommer	acl	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part
+Dublin	PROPN	Dublin	xcomp	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+loge	VERB	loger	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+sur	ADP	sur	case	
+le	DET	le	det	Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+même	ADJ	même	amod	Number=Sing
+quarré	NOUN	quarré	obl:mod	Gender=Masc|Number=Sing
+que	SCONJ	que	mark	
+moi	PRON	moi	nmod	Number=Sing|Person=1|PronType=Prs
+,	PUNCT	,	punct	
+porte	NOUN	porte	obj	Gender=Fem|Number=Sing
+à	ADP	à	case	
+porte	NOUN	porte	nmod	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+une	DET	un	det	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+seule	ADJ	seul	amod	Gender=Fem|Number=Sing
+cloison	NOUN	cloison	nmod	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+pour	ADP	pour	case	
+toute	DET	tout	det	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+séparation	NOUN	séparation	obl:mod	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+entre	ADP	entre	case	
+nous	PRON	nous	nmod	Number=Plur|Person=1|PronType=Prs
+deux	NUM	deux	nummod	NumType=Card
+.	PUNCT	.	punct	
+--	PUNCT	--	punct	
+Cependant	ADV	cependant	advmod	
+,	PUNCT	,	punct	
+ne	ADV	ne	advmod	Polarity=Neg
+vas	VERB	aller	ROOT	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+pas	ADV	pas	advmod	Polarity=Neg
+former	VERB	former	xcomp	VerbForm=Inf
+des	DET	un	det	Definite=Ind|Number=Plur|PronType=Art
+conjectures	NOUN	conjecture	obj	Gender=Fem|Number=Plur
+qui	PRON	qui	nsubj	PronType=Rel
+puissent	VERB	pouvoir	acl:relcl	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+tirer	VERB	tirer	xcomp	VerbForm=Inf
+à	ADP	à	case	
+conséquence	NOUN	conséquence	obl:arg	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+car	CCONJ	car	cc	
+je	PRON	je	nsubj	Number=Sing|Person=1
+n'	ADV	n'	advmod	Polarity=Neg
+irais	VERB	aller	conj	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+pas	ADV	pas	advmod	
+plus	ADV	plus	advmod	
+loin	ADV	loin	advmod	
+dans	ADP	dans	case	
+mon	DET	mon	det	Number=Sing|Poss=Yes
+récit	NOUN	récit	obl:mod	Gender=Masc|Number=Sing
+.	PUNCT	.	punct	
+--	PUNCT	--	punct	
+Il	PRON	il	expl:subj	Gender=Masc|Number=Sing|Person=3
+est	AUX	être	aux:pass	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+donc	ADV	donc	advmod	
+convenu	VERB	convenir	ROOT	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass
+que	SCONJ	que	mark	
+vous	PRON	vous	nsubj	Number=Plur|Person=2
+ne	ADV	ne	advmod	Polarity=Neg
+ferez	VERB	faire	ccomp	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin
+point	ADV	point	obj	Polarity=Neg
+de	DET	de	det	Definite=Ind|Number=Plur|PronType=Art
+mauvaises	ADJ	mauvais	amod	Gender=Fem|Number=Plur
+plaisanteries	NOUN	plaisanterie	obj	Gender=Fem|Number=Plur
+;	PUNCT	;	punct	
+ce	PRON	ce	expl:subj	Number=Sing|Person=3
+n'	ADV	n'	advmod	Polarity=Neg
+est	AUX	être	cop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+qu'	ADV	qu'	advmod	
+à	ADP	à	case	
+cette	DET	ce	det	Gender=Fem|Number=Sing|PronType=Dem
+condition	NOUN	condition	ROOT	Gender=Fem|Number=Sing
+,	PUNCT	,	punct	
+que	PRON	que	nsubj	PronType=Rel
+je	PRON	je	nsubj	Number=Sing|Person=1
+passerai	VERB	passer	acl:relcl	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+outre	ADP	outre	obj	
+.	PUNCT	.	punct	
+--	PUNCT	--	punct	
+Mademoiselle	NOUN	mademoiselle	nsubj	Gender=Fem|Number=Sing
+Dublin	PROPN	Dublin	flat:name	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+loge	VERB	loger	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+seule	ADJ	seul	advmod	Gender=Fem|Number=Sing
+habituellement	ADV	habituellement	advmod	
+;	PUNCT	;	punct	
+le	DET	le	det	Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+matin	NOUN	matin	obl:mod	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+elle	PRON	lui	nsubj	Gender=Fem|Number=Sing|Person=3
+commente	VERB	commente	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+la	DET	le	det	Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+gazette	NOUN	gazette	obj	Gender=Fem|Number=Sing
+de	ADP	de	case	
+la	DET	le	det	Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+veille	NOUN	veille	nmod	Gender=Fem|Number=Sing
+;	PUNCT	;	punct	
+le	DET	le	det	Definite=Def|Gender=Masc|Number=Sing|PronType=Art
+soir	NOUN	soir	obl:mod	Gender=Masc|Number=Sing
+,	PUNCT	,	punct	
+elle	PRON	lui	nsubj	Gender=Fem|Number=Sing|Person=3
+fait	VERB	faire	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+une	DET	un	det	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art
+partie	NOUN	partie	obj	Gender=Fem|Number=Sing
+de	ADP	de	case	
+bête	NOUN	bête	nmod	Gender=Fem|Number=Sing
+ombrée	VERB	ombrer	acl	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part
+;	PUNCT	;	punct	
+ou	CCONJ	ou	cc	
+bien	ADV	bien	advmod	
+,	PUNCT	,	punct	
+elle	PRON	lui	nsubj	Gender=Fem|Number=Sing|Person=3
+va	VERB	aller	ROOT	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+tenir	VERB	tenir	xcomp	VerbForm=Inf
+sa	DET	son	det	Gender=Fem|Number=Sing|Poss=Yes
+place	NOUN	place	obj	Gender=Fem|Number=Sing
+dans	ADP	dans	case	
+un	DET	un	det	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+cercle	NOUN	cercle	obl:arg	Gender=Masc|Number=Sing
+de	ADP	de	case	
+beaux	ADJ	beal	amod	Gender=Masc|Number=Plur
+esprits	NOUN	esprit	nmod	Gender=Masc|Number=Plur
+,	PUNCT	,	punct	
+aussi	ADV	aussi	advmod	
+à	ADP	à	case	
+la	DET	le	det	Definite=Def|Gender=Fem|Number=Sing|PronType=Art
+mode	NOUN	mode	obl:mod	Gender=Fem|Number=Sing
+que	SCONJ	que	mark	
+Mademoiselle	NOUN	mademoiselle	nmod	Gender=Fem|Number=Sing
+Dublin	PROPN	Dublin	flat:name	Gender=Masc|Number=Sing
+.	PUNCT	.	punct	
+Je	PRON	je	nsubj	Number=Sing|Person=1
+n'	ADV	n'	advmod	Polarity=Neg
+avais	AUX	avoir	aux:tense	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+remarqué	VERB	remarquer	parataxis	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
+ma	DET	mon	det	Gender=Fem|Number=Sing|Poss=Yes
+voisine	NOUN	voisin	obj	Gender=Fem|Number=Sing
+qu'	ADV	qu'	advmod	
+à	ADP	à	case	
+raison	NOUN	raison	obl:mod	Gender=Fem|Number=Sing
+de	ADP	de	case	
+sa	DET	son	det	Gender=Fem|Number=Sing|Poss=Yes
+structure	NOUN	structure	nmod	Gender=Fem|Number=Sing
+gigantesque	ADJ	gigantesque	amod	Number=Sing
+,	PUNCT	,	punct	
+de	ADP	de	case	
+sa	DET	son	det	Gender=Fem|Number=Sing|Poss=Yes
+taille	NOUN	taille	conj	Gender=Fem|Number=Sing
+pincée	VERB	pincer	acl	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part
+,	PUNCT	,	punct	
+et	CCONJ	et	cc	
+de	ADP	de	case	
+son	DET	son	det	Number=Sing|Poss=Yes
+toupet	NOUN	toupet	conj	Gender=Masc|Number=Sing
+étagé	VERB	étager	acl	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
+,	PUNCT	,	punct	
+qu'	SCONJ	que	mark	
+un	DET	un	det	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art
+chignon	NOUN	chignon	nsubj	Gender=Masc|Number=Sing
+à	ADP	à	case	
+blanc	ADJ	blanc	nmod	Gender=Masc|Number=Sing
+n'	ADV	n'	advmod	Polarity=Neg
+at	VERB	at	ccomp	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
