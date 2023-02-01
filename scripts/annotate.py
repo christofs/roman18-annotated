@@ -78,7 +78,7 @@ def main():
     nlp = spacy.load("fr_dep_news_trf", disable=["ner"])
     spacy.prefer_gpu()
     progress = 0
-    for file in glob.glob(textfolder): 
+    for file in glob.glob(textfolder)[23:]: 
         basename, ext = os.path.basename(file).split(".")
         text = read_textfile(file)
         annotated = annotate_text(text, nlp)
